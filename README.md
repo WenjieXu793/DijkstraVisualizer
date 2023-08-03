@@ -16,7 +16,7 @@ To draw walls, you can click or drag with the left mouse buttons.
 
 When you want to begin the path-finding algorithm, press the space bar on your keyboard.
 
-#Note
+# Note
 The light blue shows the expanding area that Dijkstra's algorithm is exploring.
 
 The dark blue shows the area that it has already explored.
