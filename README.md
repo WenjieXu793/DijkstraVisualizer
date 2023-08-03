@@ -1,7 +1,7 @@
 # DijkstraVisualizer
 A visualizer for Dijkstra's shortest pathfinding algorithm.
 
-Instructions:
+# Instructions:
 
 After running the program, the console will prompt you for the length and height of the grid/window.
 Type the values and hit enter for each.
