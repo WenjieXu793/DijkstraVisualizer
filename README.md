@@ -12,9 +12,9 @@ To select a starting position, you will use the middle mouse button.
 
 To select a target position, you will use the right mouse button.
 
-To draw walls, you can click or drag with the left mouse buttons.
+You can click or drag with the left mouse buttons to draw walls.
 
-When you want to begin the path-finding algorithm, press the space bar on your keyboard.
+Press the space bar on your keyboard when you want to begin the path-finding algorithm.
 
 # Note
 The light blue shows the expanding area that Dijkstra's algorithm is exploring.
